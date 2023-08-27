@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 To keep the api keys secret
-Compiler/Config/apiKeys.json
+apiKeys.json
