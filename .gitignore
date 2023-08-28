@@ -161,3 +161,5 @@ cython_debug/
 
 To keep the api keys secret
 apiKeys.json
+
+.csv
