@@ -1,0 +1,1957 @@
+{
+	"frc102": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm111",
+		"next_match_key": null,
+		"overall_status_str": "Team 102 was <b>Rank 38/60</b> with a record of <b>5-7-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 38,
+				"record": { "losses": 7, "ties": 0, "wins": 5 },
+				"sort_orders": [2.33, 120.91, 29.66, 33.66, 0.0, 0.0],
+				"team_key": "frc102"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc103": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 1",
+			"number": 1,
+			"pick": 0
+		},
+		"alliance_status_str": "<b>Captain</b> of <b>Alliance 1</b>",
+		"last_match_key": "2023mrcmp_sf10m1",
+		"next_match_key": null,
+		"overall_status_str": "Team 103 was <b>Rank 1/60</b> with a record of <b>11-1-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 1</b>, and was <b>eliminated in the Semifinals</b> with a playoff record of <b>1-2-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 1 },
+			"level": "sf",
+			"playoff_average": null,
+			"record": { "losses": 2, "ties": 0, "wins": 1 },
+			"status": "eliminated"
+		},
+		"playoff_status_str": "<b>Eliminated in the Semifinals</b> with a playoff record of <b>1-2-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 1,
+				"record": { "losses": 1, "ties": 0, "wins": 11 },
+				"sort_orders": [3.66, 137.66, 29.83, 31.5, 0.0, 0.0],
+				"team_key": "frc103"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc1089": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm115",
+		"next_match_key": null,
+		"overall_status_str": "Team 1089 was <b>Rank 43/60</b> with a record of <b>4-8-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 43,
+				"record": { "losses": 8, "ties": 0, "wins": 4 },
+				"sort_orders": [2.16, 113.0, 30.33, 28.66, 0.0, 0.0],
+				"team_key": "frc1089"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc11": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 8",
+			"number": 8,
+			"pick": 2
+		},
+		"alliance_status_str": "<b>2nd Pick</b> of <b>Alliance 8</b>",
+		"last_match_key": "2023mrcmp_sf13m1",
+		"next_match_key": null,
+		"overall_status_str": "Team 11 was <b>Rank 14/60</b> with a record of <b>7-5-0</b> in quals, competed in the playoffs as the <b>2nd Pick</b> of <b>Alliance 8</b>, and <b>won the Semifinals</b> with a playoff record of <b>2-2-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 2 },
+			"level": "sf",
+			"playoff_average": null,
+			"record": { "losses": 2, "ties": 0, "wins": 2 },
+			"status": "won"
+		},
+		"playoff_status_str": "<b>Won the Semifinals</b> with a playoff record of <b>2-2-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 14,
+				"record": { "losses": 5, "ties": 0, "wins": 7 },
+				"sort_orders": [2.83, 130.83, 31.0, 39.41, 0.0, 0.0],
+				"team_key": "frc11"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc1218": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 7",
+			"number": 7,
+			"pick": 1
+		},
+		"alliance_status_str": "<b>1st Pick</b> of <b>Alliance 7</b>",
+		"last_match_key": "2023mrcmp_sf6m1",
+		"next_match_key": null,
+		"overall_status_str": "Team 1218 was <b>Rank 13/60</b> with a record of <b>7-4-1</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 7</b>, and was <b>eliminated in the Semifinals</b> with a playoff record of <b>0-2-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 0 },
+			"level": "sf",
+			"playoff_average": null,
+			"record": { "losses": 2, "ties": 0, "wins": 0 },
+			"status": "eliminated"
+		},
+		"playoff_status_str": "<b>Eliminated in the Semifinals</b> with a playoff record of <b>0-2-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 13,
+				"record": { "losses": 4, "ties": 1, "wins": 7 },
+				"sort_orders": [2.91, 129.83, 27.5, 35.91, 0.0, 0.0],
+				"team_key": "frc1218"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc1391": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 6",
+			"number": 6,
+			"pick": 0
+		},
+		"alliance_status_str": "<b>Captain</b> of <b>Alliance 6</b>",
+		"last_match_key": "2023mrcmp_sf12m1",
+		"next_match_key": null,
+		"overall_status_str": "Team 1391 was <b>Rank 7/60</b> with a record of <b>9-3-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 6</b>, and <b>won the Semifinals</b> with a playoff record of <b>2-2-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 2 },
+			"level": "sf",
+			"playoff_average": null,
+			"record": { "losses": 2, "ties": 0, "wins": 2 },
+			"status": "won"
+		},
+		"playoff_status_str": "<b>Won the Semifinals</b> with a playoff record of <b>2-2-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 7,
+				"record": { "losses": 3, "ties": 0, "wins": 9 },
+				"sort_orders": [3.33, 135.16, 34.0, 35.0, 0.0, 0.0],
+				"team_key": "frc1391"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc1403": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 8",
+			"number": 8,
+			"pick": 0
+		},
+		"alliance_status_str": "<b>Captain</b> of <b>Alliance 8</b>",
+		"last_match_key": "2023mrcmp_sf13m1",
+		"next_match_key": null,
+		"overall_status_str": "Team 1403 was <b>Rank 11/60</b> with a record of <b>8-4-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 8</b>, and <b>won the Semifinals</b> with a playoff record of <b>2-2-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 2 },
+			"level": "sf",
+			"playoff_average": null,
+			"record": { "losses": 2, "ties": 0, "wins": 2 },
+			"status": "won"
+		},
+		"playoff_status_str": "<b>Won the Semifinals</b> with a playoff record of <b>2-2-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 11,
+				"record": { "losses": 4, "ties": 0, "wins": 8 },
+				"sort_orders": [3.08, 133.75, 31.16, 31.08, 0.0, 0.0],
+				"team_key": "frc1403"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc1640": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 7",
+			"number": 7,
+			"pick": 2
+		},
+		"alliance_status_str": "<b>2nd Pick</b> of <b>Alliance 7</b>",
+		"last_match_key": "2023mrcmp_sf6m1",
+		"next_match_key": null,
+		"overall_status_str": "Team 1640 was <b>Rank 41/60</b> with a record of <b>4-7-1</b> in quals, competed in the playoffs as the <b>2nd Pick</b> of <b>Alliance 7</b>, and was <b>eliminated in the Semifinals</b> with a playoff record of <b>0-2-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 0 },
+			"level": "sf",
+			"playoff_average": null,
+			"record": { "losses": 2, "ties": 0, "wins": 0 },
+			"status": "eliminated"
+		},
+		"playoff_status_str": "<b>Eliminated in the Semifinals</b> with a playoff record of <b>0-2-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 41,
+				"record": { "losses": 7, "ties": 1, "wins": 4 },
+				"sort_orders": [2.16, 119.66, 27.33, 34.16, 0.0, 0.0],
+				"team_key": "frc1640"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc1676": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 8",
+			"number": 8,
+			"pick": 1
+		},
+		"alliance_status_str": "<b>1st Pick</b> of <b>Alliance 8</b>",
+		"last_match_key": "2023mrcmp_sf13m1",
+		"next_match_key": null,
+		"overall_status_str": "Team 1676 was <b>Rank 25/60</b> with a record of <b>6-6-0</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 8</b>, and <b>won the Semifinals</b> with a playoff record of <b>2-2-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 2 },
+			"level": "sf",
+			"playoff_average": null,
+			"record": { "losses": 2, "ties": 0, "wins": 2 },
+			"status": "won"
+		},
+		"playoff_status_str": "<b>Won the Semifinals</b> with a playoff record of <b>2-2-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 25,
+				"record": { "losses": 6, "ties": 0, "wins": 6 },
+				"sort_orders": [2.66, 128.58, 28.0, 37.0, 0.0, 0.0],
+				"team_key": "frc1676"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc1712": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm115",
+		"next_match_key": null,
+		"overall_status_str": "Team 1712 was <b>Rank 21/60</b> with a record of <b>7-5-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 21,
+				"record": { "losses": 5, "ties": 0, "wins": 7 },
+				"sort_orders": [2.75, 119.75, 31.66, 28.5, 0.0, 0.0],
+				"team_key": "frc1712"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc1807": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 4",
+			"number": 4,
+			"pick": 1
+		},
+		"alliance_status_str": "<b>1st Pick</b> of <b>Alliance 4</b>",
+		"last_match_key": "2023mrcmp_sf9m1",
+		"next_match_key": null,
+		"overall_status_str": "Team 1807 was <b>Rank 16/60</b> with a record of <b>8-4-0</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 4</b>, and was <b>eliminated in the Semifinals</b> with a playoff record of <b>1-2-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 1 },
+			"level": "sf",
+			"playoff_average": null,
+			"record": { "losses": 2, "ties": 0, "wins": 1 },
+			"status": "eliminated"
+		},
+		"playoff_status_str": "<b>Eliminated in the Semifinals</b> with a playoff record of <b>1-2-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 16,
+				"record": { "losses": 4, "ties": 0, "wins": 8 },
+				"sort_orders": [2.83, 126.08, 29.16, 28.83, 0.0, 0.0],
+				"team_key": "frc1807"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc1812": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 1",
+			"number": 1,
+			"pick": 3
+		},
+		"alliance_status_str": "<b>3rd Pick</b> of <b>Alliance 1</b>",
+		"last_match_key": "2023mrcmp_sf10m1",
+		"next_match_key": null,
+		"overall_status_str": "Team 1812 was <b>Rank 17/60</b> with a record of <b>7-4-1</b> in quals, competed in the playoffs as the <b>3rd Pick</b> of <b>Alliance 1</b>, and was <b>eliminated in the Semifinals</b> with a playoff record of <b>1-2-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 1 },
+			"level": "sf",
+			"playoff_average": null,
+			"record": { "losses": 2, "ties": 0, "wins": 1 },
+			"status": "eliminated"
+		},
+		"playoff_status_str": "<b>Eliminated in the Semifinals</b> with a playoff record of <b>1-2-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 17,
+				"record": { "losses": 4, "ties": 1, "wins": 7 },
+				"sort_orders": [2.83, 122.25, 31.5, 36.0, 0.0, 0.0],
+				"team_key": "frc1812"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc1923": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 3",
+			"number": 3,
+			"pick": 1
+		},
+		"alliance_status_str": "<b>1st Pick</b> of <b>Alliance 3</b>",
+		"last_match_key": "2023mrcmp_f1m3",
+		"next_match_key": null,
+		"overall_status_str": "Team 1923 was <b>Rank 19/60</b> with a record of <b>6-6-0</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 3</b>, and was <b>eliminated in the Finals</b> with a playoff record of <b>5-3-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 1 },
+			"level": "f",
+			"playoff_average": null,
+			"record": { "losses": 3, "ties": 0, "wins": 5 },
+			"status": "eliminated"
+		},
+		"playoff_status_str": "<b>Eliminated in the Finals</b> with a playoff record of <b>5-3-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 19,
+				"record": { "losses": 6, "ties": 0, "wins": 6 },
+				"sort_orders": [2.75, 133.33, 32.16, 33.08, 0.0, 0.0],
+				"team_key": "frc1923"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc193": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm120",
+		"next_match_key": null,
+		"overall_status_str": "Team 193 was <b>Rank 40/60</b> with a record of <b>6-6-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 40,
+				"record": { "losses": 6, "ties": 0, "wins": 6 },
+				"sort_orders": [2.25, 110.41, 29.16, 33.5, 0.0, 0.0],
+				"team_key": "frc193"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc203": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm116",
+		"next_match_key": null,
+		"overall_status_str": "Team 203 was <b>Rank 27/60</b> with a record of <b>5-7-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 27,
+				"record": { "losses": 7, "ties": 0, "wins": 5 },
+				"sort_orders": [2.58, 123.83, 31.5, 34.83, 0.0, 0.0],
+				"team_key": "frc203"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc2180": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm115",
+		"next_match_key": null,
+		"overall_status_str": "Team 2180 was <b>Rank 44/60</b> with a record of <b>3-9-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 44,
+				"record": { "losses": 9, "ties": 0, "wins": 3 },
+				"sort_orders": [2.08, 117.08, 33.0, 34.16, 0.0, 0.0],
+				"team_key": "frc2180"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc222": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 5",
+			"number": 5,
+			"pick": 2
+		},
+		"alliance_status_str": "<b>2nd Pick</b> of <b>Alliance 5</b>",
+		"last_match_key": "2023mrcmp_sf5m1",
+		"next_match_key": null,
+		"overall_status_str": "Team 222 was <b>Rank 15/60</b> with a record of <b>8-4-0</b> in quals, competed in the playoffs as the <b>2nd Pick</b> of <b>Alliance 5</b>, and was <b>eliminated in the Semifinals</b> with a playoff record of <b>0-2-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 0 },
+			"level": "sf",
+			"playoff_average": null,
+			"record": { "losses": 2, "ties": 0, "wins": 0 },
+			"status": "eliminated"
+		},
+		"playoff_status_str": "<b>Eliminated in the Semifinals</b> with a playoff record of <b>0-2-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 15,
+				"record": { "losses": 4, "ties": 0, "wins": 8 },
+				"sort_orders": [2.83, 126.66, 27.5, 28.91, 0.0, 0.0],
+				"team_key": "frc222"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc223": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm120",
+		"next_match_key": null,
+		"overall_status_str": "Team 223 was <b>Rank 53/60</b> with a record of <b>4-7-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 1,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 53,
+				"record": { "losses": 7, "ties": 0, "wins": 4 },
+				"sort_orders": [1.75, 99.83, 25.0, 26.91, 0.0, 0.0],
+				"team_key": "frc223"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc2495": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm118",
+		"next_match_key": null,
+		"overall_status_str": "Team 2495 was <b>Rank 42/60</b> with a record of <b>4-8-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 42,
+				"record": { "losses": 8, "ties": 0, "wins": 4 },
+				"sort_orders": [2.16, 118.75, 28.83, 30.91, 0.0, 0.0],
+				"team_key": "frc2495"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc25": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 6",
+			"number": 6,
+			"pick": 1
+		},
+		"alliance_status_str": "<b>1st Pick</b> of <b>Alliance 6</b>",
+		"last_match_key": "2023mrcmp_sf12m1",
+		"next_match_key": null,
+		"overall_status_str": "Team 25 was <b>Rank 8/60</b> with a record of <b>8-3-1</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 6</b>, and <b>won the Semifinals</b> with a playoff record of <b>2-2-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 2 },
+			"level": "sf",
+			"playoff_average": null,
+			"record": { "losses": 2, "ties": 0, "wins": 2 },
+			"status": "won"
+		},
+		"playoff_status_str": "<b>Won the Semifinals</b> with a playoff record of <b>2-2-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 8,
+				"record": { "losses": 3, "ties": 1, "wins": 8 },
+				"sort_orders": [3.25, 131.41, 29.66, 30.16, 0.0, 0.0],
+				"team_key": "frc25"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc2539": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 3",
+			"number": 3,
+			"pick": 0
+		},
+		"alliance_status_str": "<b>Captain</b> of <b>Alliance 3</b>",
+		"last_match_key": "2023mrcmp_f1m3",
+		"next_match_key": null,
+		"overall_status_str": "Team 2539 was <b>Rank 3/60</b> with a record of <b>9-3-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 3</b>, and was <b>eliminated in the Finals</b> with a playoff record of <b>5-3-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 1 },
+			"level": "f",
+			"playoff_average": null,
+			"record": { "losses": 3, "ties": 0, "wins": 5 },
+			"status": "eliminated"
+		},
+		"playoff_status_str": "<b>Eliminated in the Finals</b> with a playoff record of <b>5-3-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 3,
+				"record": { "losses": 3, "ties": 0, "wins": 9 },
+				"sort_orders": [3.5, 148.91, 32.0, 37.5, 0.0, 0.0],
+				"team_key": "frc2539"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc2577": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm120",
+		"next_match_key": null,
+		"overall_status_str": "Team 2577 was <b>Rank 26/60</b> with a record of <b>7-4-1</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 26,
+				"record": { "losses": 4, "ties": 1, "wins": 7 },
+				"sort_orders": [2.66, 120.0, 25.66, 29.0, 0.0, 0.0],
+				"team_key": "frc2577"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc2590": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 5",
+			"number": 5,
+			"pick": 0
+		},
+		"alliance_status_str": "<b>Captain</b> of <b>Alliance 5</b>",
+		"last_match_key": "2023mrcmp_sf5m1",
+		"next_match_key": null,
+		"overall_status_str": "Team 2590 was <b>Rank 6/60</b> with a record of <b>10-2-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 5</b>, and was <b>eliminated in the Semifinals</b> with a playoff record of <b>0-2-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 0 },
+			"level": "sf",
+			"playoff_average": null,
+			"record": { "losses": 2, "ties": 0, "wins": 0 },
+			"status": "eliminated"
+		},
+		"playoff_status_str": "<b>Eliminated in the Semifinals</b> with a playoff record of <b>0-2-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 6,
+				"record": { "losses": 2, "ties": 0, "wins": 10 },
+				"sort_orders": [3.41, 136.33, 28.66, 36.91, 0.0, 0.0],
+				"team_key": "frc2590"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc2720": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 1",
+			"number": 1,
+			"pick": 2
+		},
+		"alliance_status_str": "<b>2nd Pick</b> of <b>Alliance 1</b>",
+		"last_match_key": "2023mrcmp_sf1m1",
+		"next_match_key": null,
+		"overall_status_str": "Team 2720 was <b>Rank 30/60</b> with a record of <b>6-5-1</b> in quals, competed in the playoffs as the <b>2nd Pick</b> of <b>Alliance 1</b>, and was <b>eliminated in the Semifinals</b> with a playoff record of <b>1-2-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 1 },
+			"level": "sf",
+			"playoff_average": null,
+			"record": { "losses": 2, "ties": 0, "wins": 1 },
+			"status": "eliminated"
+		},
+		"playoff_status_str": "<b>Eliminated in the Semifinals</b> with a playoff record of <b>1-2-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 30,
+				"record": { "losses": 5, "ties": 1, "wins": 6 },
+				"sort_orders": [2.5, 120.75, 28.0, 32.33, 0.0, 0.0],
+				"team_key": "frc2720"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc2722": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm119",
+		"next_match_key": null,
+		"overall_status_str": "Team 2722 was <b>Rank 46/60</b> with a record of <b>4-8-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 46,
+				"record": { "losses": 8, "ties": 0, "wins": 4 },
+				"sort_orders": [2.08, 112.58, 29.33, 31.83, 0.0, 0.0],
+				"team_key": "frc2722"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc293": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm118",
+		"next_match_key": null,
+		"overall_status_str": "Team 293 was <b>Rank 20/60</b> with a record of <b>7-4-1</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 20,
+				"record": { "losses": 4, "ties": 1, "wins": 7 },
+				"sort_orders": [2.75, 121.66, 28.16, 33.66, 0.0, 0.0],
+				"team_key": "frc293"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc303": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm117",
+		"next_match_key": null,
+		"overall_status_str": "Team 303 was <b>Rank 57/60</b> with a record of <b>3-9-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 57,
+				"record": { "losses": 9, "ties": 0, "wins": 3 },
+				"sort_orders": [1.58, 95.75, 27.0, 28.83, 0.0, 0.0],
+				"team_key": "frc303"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc3142": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 2",
+			"number": 2,
+			"pick": 2
+		},
+		"alliance_status_str": "<b>2nd Pick</b> of <b>Alliance 2</b>",
+		"last_match_key": "2023mrcmp_f1m3",
+		"next_match_key": null,
+		"overall_status_str": "Team 3142 was <b>Rank 22/60</b> with a record of <b>6-6-0</b> in quals, competed in the playoffs as the <b>2nd Pick</b> of <b>Alliance 2</b>, and <b>won the event</b> with a playoff record of <b>5-1-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 1, "ties": 0, "wins": 2 },
+			"level": "f",
+			"playoff_average": null,
+			"record": { "losses": 1, "ties": 0, "wins": 5 },
+			"status": "won"
+		},
+		"playoff_status_str": "<b>Won the event</b> with a playoff record of <b>5-1-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 22,
+				"record": { "losses": 6, "ties": 0, "wins": 6 },
+				"sort_orders": [2.75, 116.5, 31.33, 30.33, 0.0, 0.0],
+				"team_key": "frc3142"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc316": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 5",
+			"number": 5,
+			"pick": 1
+		},
+		"alliance_status_str": "<b>1st Pick</b> of <b>Alliance 5</b>",
+		"last_match_key": "2023mrcmp_sf5m1",
+		"next_match_key": null,
+		"overall_status_str": "Team 316 was <b>Rank 12/60</b> with a record of <b>8-4-0</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 5</b>, and was <b>eliminated in the Semifinals</b> with a playoff record of <b>0-2-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 0 },
+			"level": "sf",
+			"playoff_average": null,
+			"record": { "losses": 2, "ties": 0, "wins": 0 },
+			"status": "eliminated"
+		},
+		"playoff_status_str": "<b>Eliminated in the Semifinals</b> with a playoff record of <b>0-2-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 12,
+				"record": { "losses": 4, "ties": 0, "wins": 8 },
+				"sort_orders": [3.0, 130.41, 34.66, 32.0, 0.0, 0.0],
+				"team_key": "frc316"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc321": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm118",
+		"next_match_key": null,
+		"overall_status_str": "Team 321 was <b>Rank 37/60</b> with a record of <b>6-6-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 37,
+				"record": { "losses": 6, "ties": 0, "wins": 6 },
+				"sort_orders": [2.33, 122.91, 28.66, 34.83, 0.0, 0.0],
+				"team_key": "frc321"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc3314": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 2",
+			"number": 2,
+			"pick": 0
+		},
+		"alliance_status_str": "<b>Captain</b> of <b>Alliance 2</b>",
+		"last_match_key": "2023mrcmp_f1m3",
+		"next_match_key": null,
+		"overall_status_str": "Team 3314 was <b>Rank 2/60</b> with a record of <b>10-2-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 2</b>, and <b>won the event</b> with a playoff record of <b>5-1-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 1, "ties": 0, "wins": 2 },
+			"level": "f",
+			"playoff_average": null,
+			"record": { "losses": 1, "ties": 0, "wins": 5 },
+			"status": "won"
+		},
+		"playoff_status_str": "<b>Won the event</b> with a playoff record of <b>5-1-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 2,
+				"record": { "losses": 2, "ties": 0, "wins": 10 },
+				"sort_orders": [3.58, 141.91, 30.5, 35.66, 0.0, 0.0],
+				"team_key": "frc3314"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc341": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 1",
+			"number": 1,
+			"pick": 1
+		},
+		"alliance_status_str": "<b>1st Pick</b> of <b>Alliance 1</b>",
+		"last_match_key": "2023mrcmp_sf10m1",
+		"next_match_key": null,
+		"overall_status_str": "Team 341 was <b>Rank 4/60</b> with a record of <b>10-2-0</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 1</b>, and was <b>eliminated in the Semifinals</b> with a playoff record of <b>1-2-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 1 },
+			"level": "sf",
+			"playoff_average": null,
+			"record": { "losses": 2, "ties": 0, "wins": 1 },
+			"status": "eliminated"
+		},
+		"playoff_status_str": "<b>Eliminated in the Semifinals</b> with a playoff record of <b>1-2-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 4,
+				"record": { "losses": 2, "ties": 0, "wins": 10 },
+				"sort_orders": [3.5, 143.25, 31.16, 36.25, 0.0, 0.0],
+				"team_key": "frc341"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc3637": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm113",
+		"next_match_key": null,
+		"overall_status_str": "Team 3637 was <b>Rank 48/60</b> with a record of <b>4-8-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 48,
+				"record": { "losses": 8, "ties": 0, "wins": 4 },
+				"sort_orders": [1.91, 112.58, 25.33, 32.83, 0.0, 0.0],
+				"team_key": "frc3637"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc365": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm118",
+		"next_match_key": null,
+		"overall_status_str": "Team 365 was <b>Rank 55/60</b> with a record of <b>3-9-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 55,
+				"record": { "losses": 9, "ties": 0, "wins": 3 },
+				"sort_orders": [1.58, 116.5, 25.5, 32.16, 0.0, 0.0],
+				"team_key": "frc365"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc4285": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm114",
+		"next_match_key": null,
+		"overall_status_str": "Team 4285 was <b>Rank 47/60</b> with a record of <b>5-7-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 47,
+				"record": { "losses": 7, "ties": 0, "wins": 5 },
+				"sort_orders": [2.08, 104.25, 25.33, 28.16, 0.0, 0.0],
+				"team_key": "frc4285"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc433": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm112",
+		"next_match_key": null,
+		"overall_status_str": "Team 433 was <b>Rank 49/60</b> with a record of <b>4-8-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 49,
+				"record": { "losses": 8, "ties": 0, "wins": 4 },
+				"sort_orders": [1.91, 104.25, 29.16, 29.58, 0.0, 0.0],
+				"team_key": "frc433"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc4342": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 7",
+			"number": 7,
+			"pick": 0
+		},
+		"alliance_status_str": "<b>Captain</b> of <b>Alliance 7</b>",
+		"last_match_key": "2023mrcmp_sf6m1",
+		"next_match_key": null,
+		"overall_status_str": "Team 4342 was <b>Rank 9/60</b> with a record of <b>8-3-1</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 7</b>, and was <b>eliminated in the Semifinals</b> with a playoff record of <b>0-2-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 0 },
+			"level": "sf",
+			"playoff_average": null,
+			"record": { "losses": 2, "ties": 0, "wins": 0 },
+			"status": "eliminated"
+		},
+		"playoff_status_str": "<b>Eliminated in the Semifinals</b> with a playoff record of <b>0-2-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 9,
+				"record": { "losses": 3, "ties": 1, "wins": 8 },
+				"sort_orders": [3.16, 133.25, 28.16, 35.08, 0.0, 0.0],
+				"team_key": "frc4342"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc4361": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm112",
+		"next_match_key": null,
+		"overall_status_str": "Team 4361 was <b>Rank 39/60</b> with a record of <b>5-7-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 39,
+				"record": { "losses": 7, "ties": 0, "wins": 5 },
+				"sort_orders": [2.25, 116.75, 31.66, 33.75, 0.0, 0.0],
+				"team_key": "frc4361"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc4373": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 6",
+			"number": 6,
+			"pick": 2
+		},
+		"alliance_status_str": "<b>2nd Pick</b> of <b>Alliance 6</b>",
+		"last_match_key": "2023mrcmp_sf12m1",
+		"next_match_key": null,
+		"overall_status_str": "Team 4373 was <b>Rank 23/60</b> with a record of <b>7-5-0</b> in quals, competed in the playoffs as the <b>2nd Pick</b> of <b>Alliance 6</b>, and <b>won the Semifinals</b> with a playoff record of <b>2-2-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 2 },
+			"level": "sf",
+			"playoff_average": null,
+			"record": { "losses": 2, "ties": 0, "wins": 2 },
+			"status": "won"
+		},
+		"playoff_status_str": "<b>Won the Semifinals</b> with a playoff record of <b>2-2-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 23,
+				"record": { "losses": 5, "ties": 0, "wins": 7 },
+				"sort_orders": [2.66, 128.91, 28.5, 35.83, 0.0, 0.0],
+				"team_key": "frc4373"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc4573": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm111",
+		"next_match_key": null,
+		"overall_status_str": "Team 4573 was <b>Rank 45/60</b> with a record of <b>4-8-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 45,
+				"record": { "losses": 8, "ties": 0, "wins": 4 },
+				"sort_orders": [2.08, 115.58, 30.0, 30.75, 0.0, 0.0],
+				"team_key": "frc4573"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc484": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 3",
+			"number": 3,
+			"pick": 2
+		},
+		"alliance_status_str": "<b>2nd Pick</b> of <b>Alliance 3</b>",
+		"last_match_key": "2023mrcmp_f1m3",
+		"next_match_key": null,
+		"overall_status_str": "Team 484 was <b>Rank 24/60</b> with a record of <b>6-6-0</b> in quals, competed in the playoffs as the <b>2nd Pick</b> of <b>Alliance 3</b>, and was <b>eliminated in the Finals</b> with a playoff record of <b>5-3-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 1 },
+			"level": "f",
+			"playoff_average": null,
+			"record": { "losses": 3, "ties": 0, "wins": 5 },
+			"status": "eliminated"
+		},
+		"playoff_status_str": "<b>Eliminated in the Finals</b> with a playoff record of <b>5-3-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 24,
+				"record": { "losses": 6, "ties": 0, "wins": 6 },
+				"sort_orders": [2.66, 128.58, 29.5, 33.33, 0.0, 0.0],
+				"team_key": "frc484"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc486": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm117",
+		"next_match_key": null,
+		"overall_status_str": "Team 486 was <b>Rank 52/60</b> with a record of <b>2-9-1</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 52,
+				"record": { "losses": 9, "ties": 1, "wins": 2 },
+				"sort_orders": [1.75, 110.83, 25.66, 30.91, 0.0, 0.0],
+				"team_key": "frc486"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc5401": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm116",
+		"next_match_key": null,
+		"overall_status_str": "Team 5401 was <b>Rank 59/60</b> with a record of <b>2-10-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 59,
+				"record": { "losses": 10, "ties": 0, "wins": 2 },
+				"sort_orders": [1.5, 103.66, 28.33, 29.75, 0.0, 0.0],
+				"team_key": "frc5401"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc555": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm112",
+		"next_match_key": null,
+		"overall_status_str": "Team 555 was <b>Rank 32/60</b> with a record of <b>6-6-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 32,
+				"record": { "losses": 6, "ties": 0, "wins": 6 },
+				"sort_orders": [2.5, 116.33, 34.0, 33.66, 0.0, 0.0],
+				"team_key": "frc555"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc56": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm118",
+		"next_match_key": null,
+		"overall_status_str": "Team 56 was <b>Rank 51/60</b> with a record of <b>3-9-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 51,
+				"record": { "losses": 9, "ties": 0, "wins": 3 },
+				"sort_orders": [1.83, 108.08, 29.16, 29.16, 0.0, 0.0],
+				"team_key": "frc56"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc5666": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm120",
+		"next_match_key": null,
+		"overall_status_str": "Team 5666 was <b>Rank 56/60</b> with a record of <b>2-9-1</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 56,
+				"record": { "losses": 9, "ties": 1, "wins": 2 },
+				"sort_orders": [1.58, 98.91, 25.5, 28.91, 0.0, 0.0],
+				"team_key": "frc5666"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc5895": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 2",
+			"number": 2,
+			"pick": 1
+		},
+		"alliance_status_str": "<b>1st Pick</b> of <b>Alliance 2</b>",
+		"last_match_key": "2023mrcmp_f1m3",
+		"next_match_key": null,
+		"overall_status_str": "Team 5895 was <b>Rank 10/60</b> with a record of <b>9-3-0</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 2</b>, and <b>won the event</b> with a playoff record of <b>5-1-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 1, "ties": 0, "wins": 2 },
+			"level": "f",
+			"playoff_average": null,
+			"record": { "losses": 1, "ties": 0, "wins": 5 },
+			"status": "won"
+		},
+		"playoff_status_str": "<b>Won the event</b> with a playoff record of <b>5-1-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 10,
+				"record": { "losses": 3, "ties": 0, "wins": 9 },
+				"sort_orders": [3.16, 131.41, 28.16, 37.58, 0.0, 0.0],
+				"team_key": "frc5895"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc6897": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm114",
+		"next_match_key": null,
+		"overall_status_str": "Team 6897 was <b>Rank 35/60</b> with a record of <b>6-5-1</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 35,
+				"record": { "losses": 5, "ties": 1, "wins": 6 },
+				"sort_orders": [2.41, 117.5, 26.33, 29.08, 0.0, 0.0],
+				"team_key": "frc6897"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc6921": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm116",
+		"next_match_key": null,
+		"overall_status_str": "Team 6921 was <b>Rank 50/60</b> with a record of <b>3-8-1</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 50,
+				"record": { "losses": 8, "ties": 1, "wins": 3 },
+				"sort_orders": [1.83, 109.41, 27.5, 27.83, 0.0, 0.0],
+				"team_key": "frc6921"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc6945": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm112",
+		"next_match_key": null,
+		"overall_status_str": "Team 6945 was <b>Rank 60/60</b> with a record of <b>2-10-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 60,
+				"record": { "losses": 10, "ties": 0, "wins": 2 },
+				"sort_orders": [1.08, 99.58, 24.0, 26.25, 0.0, 0.0],
+				"team_key": "frc6945"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc7045": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm113",
+		"next_match_key": null,
+		"overall_status_str": "Team 7045 was <b>Rank 18/60</b> with a record of <b>8-4-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 18,
+				"record": { "losses": 4, "ties": 0, "wins": 8 },
+				"sort_orders": [2.83, 122.08, 27.33, 32.66, 0.0, 0.0],
+				"team_key": "frc7045"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc708": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 4",
+			"number": 4,
+			"pick": 2
+		},
+		"alliance_status_str": "<b>2nd Pick</b> of <b>Alliance 4</b>",
+		"last_match_key": "2023mrcmp_sf9m1",
+		"next_match_key": null,
+		"overall_status_str": "Team 708 was <b>Rank 33/60</b> with a record of <b>6-6-0</b> in quals, competed in the playoffs as the <b>2nd Pick</b> of <b>Alliance 4</b>, and was <b>eliminated in the Semifinals</b> with a playoff record of <b>1-2-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 1 },
+			"level": "sf",
+			"playoff_average": null,
+			"record": { "losses": 2, "ties": 0, "wins": 1 },
+			"status": "eliminated"
+		},
+		"playoff_status_str": "<b>Eliminated in the Semifinals</b> with a playoff record of <b>1-2-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 33,
+				"record": { "losses": 6, "ties": 0, "wins": 6 },
+				"sort_orders": [2.41, 123.66, 31.33, 32.33, 0.0, 0.0],
+				"team_key": "frc708"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc75": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm119",
+		"next_match_key": null,
+		"overall_status_str": "Team 75 was <b>Rank 36/60</b> with a record of <b>6-6-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 36,
+				"record": { "losses": 6, "ties": 0, "wins": 6 },
+				"sort_orders": [2.41, 114.5, 29.0, 33.25, 0.0, 0.0],
+				"team_key": "frc75"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc8117": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm114",
+		"next_match_key": null,
+		"overall_status_str": "Team 8117 was <b>Rank 34/60</b> with a record of <b>5-7-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 34,
+				"record": { "losses": 7, "ties": 0, "wins": 5 },
+				"sort_orders": [2.41, 120.33, 31.83, 31.08, 0.0, 0.0],
+				"team_key": "frc8117"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc834": {
+		"alliance": {
+			"backup": null,
+			"name": "Alliance 4",
+			"number": 4,
+			"pick": 0
+		},
+		"alliance_status_str": "<b>Captain</b> of <b>Alliance 4</b>",
+		"last_match_key": "2023mrcmp_sf9m1",
+		"next_match_key": null,
+		"overall_status_str": "Team 834 was <b>Rank 5/60</b> with a record of <b>9-3-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 4</b>, and was <b>eliminated in the Semifinals</b> with a playoff record of <b>1-2-0</b>.",
+		"playoff": {
+			"current_level_record": { "losses": 2, "ties": 0, "wins": 1 },
+			"level": "sf",
+			"playoff_average": null,
+			"record": { "losses": 2, "ties": 0, "wins": 1 },
+			"status": "eliminated"
+		},
+		"playoff_status_str": "<b>Eliminated in the Semifinals</b> with a playoff record of <b>1-2-0</b>",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 5,
+				"record": { "losses": 3, "ties": 0, "wins": 9 },
+				"sort_orders": [3.5, 133.16, 30.83, 35.25, 0.0, 0.0],
+				"team_key": "frc834"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc9014": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm115",
+		"next_match_key": null,
+		"overall_status_str": "Team 9014 was <b>Rank 58/60</b> with a record of <b>3-9-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 58,
+				"record": { "losses": 9, "ties": 0, "wins": 3 },
+				"sort_orders": [1.58, 95.25, 27.83, 29.75, 0.0, 0.0],
+				"team_key": "frc9014"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc9015": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm111",
+		"next_match_key": null,
+		"overall_status_str": "Team 9015 was <b>Rank 28/60</b> with a record of <b>6-6-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 28,
+				"record": { "losses": 6, "ties": 0, "wins": 6 },
+				"sort_orders": [2.58, 121.0, 28.16, 33.25, 0.0, 0.0],
+				"team_key": "frc9015"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc9027": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm119",
+		"next_match_key": null,
+		"overall_status_str": "Team 9027 was <b>Rank 29/60</b> with a record of <b>7-5-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 29,
+				"record": { "losses": 5, "ties": 0, "wins": 7 },
+				"sort_orders": [2.58, 112.41, 33.0, 33.33, 0.0, 0.0],
+				"team_key": "frc9027"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc9094": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm113",
+		"next_match_key": null,
+		"overall_status_str": "Team 9094 was <b>Rank 31/60</b> with a record of <b>6-6-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 31,
+				"record": { "losses": 6, "ties": 0, "wins": 6 },
+				"sort_orders": [2.5, 120.5, 29.33, 33.08, 0.0, 0.0],
+				"team_key": "frc9094"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	},
+	"frc9116": {
+		"alliance": null,
+		"alliance_status_str": "--",
+		"last_match_key": "2023mrcmp_qm114",
+		"next_match_key": null,
+		"overall_status_str": "Team 9116 was <b>Rank 54/60</b> with a record of <b>3-9-0</b> in quals.",
+		"playoff": null,
+		"playoff_status_str": "--",
+		"qual": {
+			"num_teams": 60,
+			"ranking": {
+				"dq": 0,
+				"matches_played": 12,
+				"qual_average": null,
+				"rank": 54,
+				"record": { "losses": 9, "ties": 0, "wins": 3 },
+				"sort_orders": [1.66, 101.66, 27.66, 29.41, 0.0, 0.0],
+				"team_key": "frc9116"
+			},
+			"sort_order_info": [
+				{ "name": "Ranking Score", "precision": 2 },
+				{ "name": "Avg Match", "precision": 2 },
+				{ "name": "Avg Charge Station", "precision": 2 },
+				{ "name": "Avg Auto", "precision": 2 }
+			],
+			"status": "completed"
+		}
+	}
+}
