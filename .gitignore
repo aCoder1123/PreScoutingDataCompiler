@@ -162,4 +162,9 @@ cython_debug/
 To keep the api keys secret
 apiKeys.json
 
-.csv
+*.csv
+*.xlsx
+*.png
+*.jpeg
+
+.DS_Store

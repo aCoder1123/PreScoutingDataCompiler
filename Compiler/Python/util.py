@@ -7,7 +7,7 @@ import json
 def makeCall(api, url):
     urls = {"FIRST" : "https://frc-api.firstinspires.org/v3.0/", "TBA" : "https://www.thebluealliance.com/api/v3/", "Statbotics": "https://api.statbotics.io/v2/"}
     paramaters = {}
-    f = open("Compiler/Config/apiKeys.json")
+    f = open("(Pre)ScoutingDataCompiler/Compiler/Config/apiKeys.json") #(Pre)ScoutingDataCompiler/Compiler/Config/apiKeys.json
     
     credentials = json.load(f)
     f.close()
@@ -15,7 +15,7 @@ def makeCall(api, url):
         paramaters = {"Authorization" : credentials["FIRST"]["Auth"], "If-Modified-Since": ""}
     elif api == "TBA":
         paramaters["X-TBA-Auth-Key"] = credentials["TBA"]["Auth"]
-    
+    # print(urls[api] + url)
     return requests.request("GET", urls[api] + url, headers = paramaters)
 
 
@@ -29,8 +29,9 @@ def writeCSV(df, fp):
     f.write(toWrite)
     f.close()
 
-    
-    
+def toBinary(inputStr):
+    res = ''.join(format(ord(i), '08b') for i in inputStr)
+    return str(res)
 
 
     
